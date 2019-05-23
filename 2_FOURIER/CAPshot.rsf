@@ -1,0 +1,36 @@
+1.6-svn	sfsegyread	data/CAPRICORN/ACTIVE:	jshragge@geop-login1.carnarvon.uwa.edu.au	Thu Feb 11 13:42:58 2016
+
+	d2=1
+	o1=0
+	n2=302
+	o2=0
+	label1="Time"
+	data_format="native_float"
+	head="tfile-1200.rsf"
+	label2="Trace"
+	esize=4
+	in="/geofs/jshragge/SCRATCH/data/CAPRICORN/ACTIVE/shot-1200.rsf@"
+	unit1="s"
+	d1=0.002
+	n1=10001
+1.8-svn	sfwindow	data/CAPRICORN/ACTIVE:	jshragge@geop-login1.carnarvon.uwa.edu.au	Tue Sep 12 07:01:54 2017
+
+	d2=1
+	n2=300
+	o1=0
+	o2=2
+	label1="Time"
+	data_format="native_float"
+	label2="Trace"
+	f2=2
+	esize=4
+	j1=2
+	in="/geofs/jshragge/SCRATCH/CAPshott.rsf@"
+	unit1="s"
+	d1=0.004
+	n1=2500
+1.8-svn	sfmv	data/CAPRICORN/ACTIVE:	jshragge@geop-login1.carnarvon.uwa.edu.au	Tue Sep 12 07:02:08 2017
+
+	data_format="native_float"
+	esize=4
+	in="CAPshot.rsf@"

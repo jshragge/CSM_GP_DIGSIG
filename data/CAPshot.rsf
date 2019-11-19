@@ -33,4 +33,4 @@
 
 	data_format="native_float"
 	esize=4
-	in="CAPshot.rsf@"
+	in="./data/CAPshot.rsf@"

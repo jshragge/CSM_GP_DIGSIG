@@ -1,3 +1,5 @@
+> **This course has moved.** The updated, much smaller (~33 MB) version is at **[jshragge/CSM_GP_DIGSIG_2026](https://github.com/jshragge/CSM_GP_DIGSIG_2026)**. This repository is kept as an archive.
+
 <img align="center" width="800" src="Fig/TITLE.png">
 
 
